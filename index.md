@@ -1,8 +1,5 @@
-LAB REPORT 1:
-=============
-
-**Links:**
-[Link](https://joshcaneday.github.io/cse15l-lab-reports/cd) [Link](https://joshcaneday.github.io/cse15l-lab-reports/ls) [Link](https://joshcaneday.github.io/cse15l-lab-reports/cat)
+#                                                       LAB REPORT 1:
+[CD](https://joshcaneday.github.io/cse15l-lab-reports/cd)  &ensp;&ensp;&ensp;&ensp;&ensp;  [LS](https://joshcaneday.github.io/cse15l-lab-reports/ls)  &ensp;&ensp;&ensp;&ensp;&ensp; [CAT](https://joshcaneday.github.io/cse15l-lab-reports/cat)
 
 
    
