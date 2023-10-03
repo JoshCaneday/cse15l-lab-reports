@@ -1,10 +1,10 @@
-Command (ls):
+LAB REPORT 1:
 =============
 
-1. 2
-   
-2. 2
-   
-3. 3
+Link To (cd): [Link](https://joshcaneday.github.io/cse15l-lab-reports/cd)
+
+Link To (ls): [Link](https://joshcaneday.github.io/cse15l-lab-reports/ls)
+
+Link To (cat): [Link](https://joshcaneday.github.io/cse15l-lab-reports/cat)
    
    
