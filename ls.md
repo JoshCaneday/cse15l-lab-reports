@@ -9,7 +9,7 @@ In this example, the working directory was "/home". I got this output because if
 ## Using the ls Command With a Directory Argument
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/5ed7788d-ed62-4fc5-8bb7-8afdf50e4f79)
 
-In this example, the working directory was "/home". This was the output because when using the ls command with a directory as an argument, it lists all the files and folders within the directory that was written. However, it should be noted that the directory which was written alongside the command must actually exist and also be written in the correct format. For example, if the directory was not within the current working directory, the user must name the directory using its absolute path. The output was not an error.
+In this example, the working directory was "/home". This was the output because when using the ls command with a directory as an argument, it lists all the files and folders within the directory that was written. However, it should be noted that the directory that was written alongside the command must actually exist and also be written in the correct format. For example, if the directory was not within the current working directory, the user must name the directory using its absolute path. The output was not an error.
 
 ## Using the ls Command With a File Argument
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/094e2d73-d1bb-4855-b760-8bc0594d5e12)
