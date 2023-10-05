@@ -1,6 +1,7 @@
 Command (cat):
 =============
-[CD](https://joshcaneday.github.io/cse15l-lab-reports/cd)  &ensp;&ensp;&ensp;&ensp;&ensp;  [LS](https://joshcaneday.github.io/cse15l-lab-reports/ls)  &ensp;&ensp;&ensp;&ensp;&ensp; [CAT](https://joshcaneday.github.io/cse15l-lab-reports/cat)
+&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;[CD](https://joshcaneday.github.io/cse15l-lab-reports/cd)  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;  [LS](https://joshcaneday.github.io/cse15l-lab-reports/ls)  &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; [CAT](https://joshcaneday.github.io/cse15l-lab-reports/cat)
+
 ## Using the cat Command Without an Argument
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/ecddf3ab-02cf-4c92-b88e-b0c366bd0eb4)
 
