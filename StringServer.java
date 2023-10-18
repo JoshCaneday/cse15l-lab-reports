@@ -12,8 +12,8 @@ class Handler implements URLHandler {
             String[] parameters = url.getQuery().split("=");
             if (parameters[0].equals("s")){
                 count += 1;
-                previous = previous + parameters[1] + "\n";
-                return String.format("%s%d. %s\n", previous, count, parameters[1]);
+                previous = previous + count + ". " + parameters[1] + "\n";
+                return String.format("%s\n", previous);
             }
             
         } 
