@@ -4,14 +4,14 @@ import java.net.URI;
 class Handler implements URLHandler {
     // The one bit of state on the server: a number that will be manipulated by
     // various requests.
-    int count = 1;
+    int count = 0;
 
     public String handleRequest(URI url) {
         if (url.getPath().equals("/add-message")) {
             String[] parameters = url.getQuery().split("=");
             if (parameters[0].equals("s")){
+                count += 1;
                 return String.format("%d.", parameters[1]);
-                    count += 1;
             }
             
         } 
