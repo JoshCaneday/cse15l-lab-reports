@@ -5,13 +5,15 @@ class Handler implements URLHandler {
     // The one bit of state on the server: a number that will be manipulated by
     // various requests.
     int count = 0;
+    String previous = "";
 
     public String handleRequest(URI url) {
         if (url.getPath().equals("/add-message")) {
             String[] parameters = url.getQuery().split("=");
             if (parameters[0].equals("s")){
                 count += 1;
-                return String.format("%d. %s", count, parameters[1]);
+                previous = previous + parameters[1] + "\n";
+                return String.format("%s%d. %s\n", previous, count, parameters[1]);
             }
             
         } 
