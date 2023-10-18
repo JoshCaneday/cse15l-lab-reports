@@ -13,6 +13,7 @@ class Handler implements URLHandler {
             if (parameters[0].equals("s")){
                 count += 1;
                 previous = previous + count + ". " + parameters[1] + "\n";
+                previous.replace("+"," ");
                 return String.format("%s\n", previous);
             }
             
