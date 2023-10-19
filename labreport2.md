@@ -14,7 +14,7 @@ A:
 
 Q: How do the values of any relevant fields of the class change from this specific request? If no values got changed, explain why.
 
-A: 
+A: After this specific request, the count variable increments by 1, and the previous variable is set to what was just displayed. The count variable keeps track of the number in the sequence. The previous variable is used to keep track of and display what happened on the previous request.
 
 ## Code:
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/3b8d934a-e691-4aa0-b33a-7586446dc0fd)
