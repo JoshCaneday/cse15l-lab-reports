@@ -178,4 +178,4 @@ journal
 ```
 The -o option does the same thing as the normal grep command however instead of printing out everything on the line that contains the text, it only prints out the text. This is useful for when you don't need to read each line that contains the text and only want to see how many times it shows up.
 
-Each option was found on [Link](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
+Each option was found on [https://www.geeksforgeeks.org/grep-command-in-unixlinux/](https://www.geeksforgeeks.org/grep-command-in-unixlinux/)
