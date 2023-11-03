@@ -19,7 +19,9 @@ public void testReverseInPlace(){
 }
 ```
 * The symptom, as the output of running the tests:
+![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/43d0566e-d85e-48be-80e5-056fa5a905df)
 
+The failure-inducing input is seen as one of the failures in JUnit. The input that doesn't induce a failure can only be seen as one of the tests run at the bottom of the image. However, since it didn't induce an error, it is not shown in detail like the tests that fail.
 * The bug, as the before-and-after code change required to fix it;
 
 * Briefly describe why the fix addresses the issue:
