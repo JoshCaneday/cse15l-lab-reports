@@ -22,7 +22,22 @@ public void testReversed(){
 
 The failure-inducing input is seen as one of the failures in JUnit. The input that doesn't induce a failure can only be seen as one of the tests run at the bottom of the image. However, since it didn't induce an error, it is not shown in detail like the tests that fail.
 * The bug, as the before-and-after code change required to fix it;
-
+```
+@Test
+public void reversedBasicArrayTest(){
+  int[] input1 = {1,2,3,4};
+  assertArrayEquals(new int[]{4,3,2,1}, ArrayExamples.reversed(input1));
+		
+}
+```
+```
+@Test
+public void reversedFixed(){
+  int[] input1 = {1,2,3,4};
+  assertArrayEquals(new int[]{4,3,2,1}, ArrayExamples.reversedFixed(input1));
+		
+}
+```
 * Briefly describe why the fix addresses the issue:
   
 
