@@ -38,4 +38,5 @@
 1. Type "git add ListExamples.java"
 2. Type "git commit ListExamples.java"
 3. Since the above step opens up vim, you have to type some message so that the commit is confirmed. A message that tells the user that a fix was made is recommended. I personally wrote "fixing listexamples", so that I knew that I fixed the code.
-4. 
+4. Type "git push"
+5. The changes should now be made.
