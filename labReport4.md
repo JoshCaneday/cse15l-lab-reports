@@ -19,8 +19,13 @@
 ## Step 7
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/5e7c71a2-8f54-447c-a89f-bb8f1f73581a)
 
-1. 
-2. 
+1. Type "vim ListExamples.java"
+2. Press Shift and L at the same time
+3.  ``` <up><up><up><up><up><up><end><left><left><left><left><left><left> ```
+4. Press "r"
+5. Press "2"
+6. Press "escape"
+7. Type ":wq"
 
 ## Step 8
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/16b3c3f3-2af9-44e4-b5d4-0d04ff61d5e0)
@@ -30,5 +35,7 @@
 ## Step 9
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/ed1c3e02-b5aa-4c56-9345-088ff3d2b520)
 
-1. 
-2. 
+1. Type "git add ListExamples.java"
+2. Type "git commit ListExamples.java"
+3. Since the above step opens up vim, you have to type some message so that the commit is confirmed. A message that tells the user that a fix was made is recommended. I personally wrote "fixing listexamples", so that I knew that I fixed the code.
+4. 
