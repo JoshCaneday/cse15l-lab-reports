@@ -19,13 +19,13 @@
 ## Step 7
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/5e7c71a2-8f54-447c-a89f-bb8f1f73581a)
 
-1. Type "vim ListExamples.java"
-2. Press Shift and L at the same time
-3.  ``` <up><up><up><up><up><up><end><left><left><left><left><left><left> ```
-4. Press "r"
-5. Press "2"
-6. Press "escape"
-7. Type ":wq"
+1. Type "vim ListExamples.java" to go into vim for the chosen file.
+2. Press Shift and L at the same time to drop down to the bottom of the page quickly.
+3.  ``` <up><up><up><up><up><up><end><left><left><left><left><left><left> ``` This manuevers to the correct spot to fix the error.
+4. Press "r" to get ready to replace the current character without having to go into insert mode.
+5. Press "2" to replace whatever was orignally on the cursor with the given character.
+6. Press "escape", to get back into normal mode.
+7. Type ":wq" to save and exit vim.
 
 ## Step 8
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/16b3c3f3-2af9-44e4-b5d4-0d04ff61d5e0)
@@ -35,8 +35,8 @@
 ## Step 9
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/ed1c3e02-b5aa-4c56-9345-088ff3d2b520)
 
-1. Type "git add ListExamples.java"
-2. Type "git commit ListExamples.java"
+1. Type "git add ListExamples.java" to get the file ready for committing.
+2. Type "git commit ListExamples.java" to commit the changes.
 3. Since the above step opens up vim, you have to type some message so that the commit is confirmed. A message that tells the user that a fix was made is recommended. I personally wrote "fixing listexamples", so that I knew that I fixed the code.
-4. Type "git push"
+4. Type "git push" this will publish the changes to the fork on Github.
 5. The changes should now be made.
