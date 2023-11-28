@@ -19,13 +19,8 @@
 ## Step 7
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/5e7c71a2-8f54-447c-a89f-bb8f1f73581a)
 
-Type "vim ListExamples.java" to go into vim for the chosen file.
-Press Shift and L at the same time to drop down to the bottom of the page quickly.
-``` <up><up><up><up><up><up><end><left><left><left><left><left><left> ``` This manuevers to the correct spot to fix the error.
-Press "r" to get ready to replace the current character without having to go into insert mode.
-Press "2" to replace whatever was orignally on the cursor with the given character.
-Press "escape", to get back into normal mode.
-Type ":wq" to save and exit vim.
+`vim ListExamples.java` to go into vim for the chosen file.
+Keys Pressed:```<4><3><down><right><right><right><right><right><right><right><right><right><right><right><r><2><escape><:wq>``` This maneuvers to the correct spot, fixes the error, saves, and exits vim.
 
 ## Step 8
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/16b3c3f3-2af9-44e4-b5d4-0d04ff61d5e0)
@@ -37,6 +32,6 @@ Type ":wq" to save and exit vim.
 
 
 `git add ListExamples.java` to get the file ready for committing.
-`git commit -m "fixing ListExamples"` to commit the changes.
+`git commit -m "fixing ListExamples"` to commit the changes with a commit message.
 `git push` to publish the changes to the fork on GitHub.
 
