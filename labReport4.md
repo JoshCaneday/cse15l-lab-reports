@@ -12,7 +12,7 @@
 `git clone git@github.com:JoshCaneday/lab7.git` then `<enter>` in order to clone my fork of the repository from my Github account. 
 
 ## Step 6
-![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/b4e9d7eb-8395-4233-a2d7-a84266eefdac)
+![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/04548738-239c-4ca6-8cb7-50114b395c0a)
 
 `cd lab7/` to get into the correct directory and `bash test.sh` then `<enter>` to run the script and to run the tests.
 
