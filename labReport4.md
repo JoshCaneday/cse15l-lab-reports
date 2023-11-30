@@ -14,7 +14,7 @@
 ## Step 6
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/b4e9d7eb-8395-4233-a2d7-a84266eefdac)
 
-`cd lab7/ ` to get into the correct directory and `bash test.sh` then `<enter>` to run the script and to run the tests.
+`cd lab7/` to get into the correct directory and `bash test.sh` then `<enter>` to run the script and to run the tests.
 
 ## Step 7
 ![image](https://github.com/JoshCaneday/cse15l-lab-reports/assets/146874169/5e7c71a2-8f54-447c-a89f-bb8f1f73581a)
