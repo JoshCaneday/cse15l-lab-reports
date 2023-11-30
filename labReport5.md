@@ -23,16 +23,28 @@ Thank you so much for your help!
 **Information/Setup:**
 
 File & Directory Structure:
+
+```
 -lab7
+
     -lib
+    
         -hamcrest-core-1.3.jar
+        
         -junit-4.13.2.jar
+        
     -ListExamples.class
+    
     -ListExamples.java
+    
     -ListExamplesTests.class
+    
     -ListExamplesTests.java
+    
     -StringChecker.class
+    
     -test.sh
+```
 
 Contents of Each File Before Fixing:
 (The only files that were altered were test.sh and ListExamples.java so that is all that is needed to be shown)
